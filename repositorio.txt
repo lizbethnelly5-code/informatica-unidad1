@@ -1,7 +1,7 @@
-echo "# informatica-unidad1" >> README.md
+echo "# trabajosunidad2nelly" >> README.md
 git init
 git add .
 git commit -m "first commit"
 git branch -M main
-git remote add origin https://github.com/lizbethnelly5-code/informatica-unidad1.git
+git remote add origin https://github.com/lizbethnelly5-code/trabajosunidad2nelly.git
 git push -u origin main
